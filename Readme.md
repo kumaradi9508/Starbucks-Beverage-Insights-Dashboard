@@ -154,8 +154,8 @@ Starbucks-Analytics-Dashboard/
 Aspiring Data Analyst | Power BI · DAX · Excel · Canva · SQL
 
 📧 [adisatya9508@gmail.com]
-🔗 [LinkedIn Profile]
-💻 [GitHub Profile]
+🔗 [www.linkedin.com/in/aditya-kumar-459077322]
+💻 [https://github.com/kumaradi9508]
 
 ---
 
