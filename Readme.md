@@ -4,7 +4,7 @@
 > An end-to-end Business Intelligence project analyzing Starbucks' global store presence and complete beverage nutrition portfolio — built with **Microsoft Power BI** and **Canva UI Design**.
 
 ---
-
+![Dashboard](Images/Dashboard.png)
 ## 🚀 Project Overview
 
 This project simulates a real-world data analyst role in the FMCG / Food & Beverage industry. Using two rich datasets covering Starbucks' menu nutrition data and worldwide store directory, I designed a fully interactive Power BI dashboard that helps stakeholders understand beverage performance, nutritional patterns, global expansion, and customer health insights.
